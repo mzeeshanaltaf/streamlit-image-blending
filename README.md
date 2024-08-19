@@ -12,7 +12,7 @@ You must have Python 3.9 or later installed. Earlier versions of python may not 
    `pip install -r requirements.txt`
 5. Run the application with following command from terminal:
 
-   `streamlit run st_image_threshold.py`
+   `streamlit run st-image-blending.py`
 
 # Screen Shots
 ![image](https://github.com/user-attachments/assets/a2ecd443-d361-4124-b2b8-400218baa981)
